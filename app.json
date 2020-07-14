@@ -26,7 +26,7 @@
       },
       {
         "pagePath": "pages/headline/headline",
-        "text": "备忘",
+        "text": "头条",
         "iconPath": "pages/images/tab/headline-0.jpg",
         "selectedIconPath": "pages/images/tab/headline-1.jpg"
       },
