@@ -1,2 +1,4 @@
 <!--pages/food/food.wxml-->
-<text>pages/food/food.wxml</text>
+<!-- <text>pages/food/food.wxml</text> -->
+<import src="../template/template"/>
+<template is="food" data="{{caixi}}"/>
